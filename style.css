@@ -1,0 +1,38 @@
+body {
+  text-align: center;
+  font-family: fantasy;
+  background-color: rgb(201, 171, 134);
+  background-image: url("Lemon.jpeg");
+}
+
+h1 {
+  font-size: 80px;
+  padding-bottom: 10%;
+}
+
+h2 {
+  font-size: 50px;
+}
+
+h3 {
+  font-size: 30px;
+}
+
+h3.vanilla {
+  color: cornsilk;
+  background-color: blueviolet;
+}
+
+h3.chocolate {
+  color: chocolate;
+  background-color: darkcyan;
+}
+
+h3.season {
+  color: goldenrod;
+  background-color: deeppink;
+}
+
+img {
+  width: 30%;
+}
