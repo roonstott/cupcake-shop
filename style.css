@@ -36,3 +36,16 @@ h3.season {
 img {
   width: 30%;
 }
+
+p.flashy {
+  color: crimson;
+  text-decoration-line: underline;
+  font-style: italic;
+}
+
+p.best {
+  font-style: oblique;
+  color: blueviolet;
+  font-weight:bolder;
+  text-decoration: overline;
+}
